@@ -1,3 +1,4 @@
-ipywidgets
 nltk
+ipywidgets
 requests
+jupyterlab-widgets
